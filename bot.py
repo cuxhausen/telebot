@@ -5,7 +5,6 @@ token = '2138237247:AAGOfmz-0-_luhmENRbxDDx5v6HFaLnfIrU'
 
 pizza_size = ''
 payment = ''
-#age = 0
 
 bot = telebot.TeleBot(token)
 
